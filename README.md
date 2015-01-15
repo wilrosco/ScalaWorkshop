@@ -1,0 +1,2 @@
+# ScalaWorkshop
+Learning Scala
