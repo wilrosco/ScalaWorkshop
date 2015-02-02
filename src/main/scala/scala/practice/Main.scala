@@ -9,11 +9,11 @@ object Main {
     println(printer.getTotal())
     println(printer.getTotal())
 
-    val pairs = Array(1,2,3,4).filter(i -> loquesea(i))
-    pairs.count(x => true)
-    pairs.count(x => true)
+   // val pairs = Array(1,2,3,4).filter(i -> loquesea(i))
+    //pairs.count(x => true)
+    //pairs.count(x => true)
 
-    val rdd : Array[String] = Array("willia,roses","andres,blanco")
+    val rdd : Array[String] = Array("william,roses","andres,blanco")
 
 
 
